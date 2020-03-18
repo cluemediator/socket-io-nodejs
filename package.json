@@ -1,0 +1,28 @@
+{
+  "name": "socket-io-nodejs",
+  "version": "1.0.0",
+  "description": "Implement Socket.IO in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluemediator/socket-io-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Clue Mediator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cluemediator/socket-io-nodejs/issues"
+  },
+  "homepage": "https://github.com/cluemediator/socket-io-nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
