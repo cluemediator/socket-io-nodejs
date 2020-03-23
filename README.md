@@ -11,4 +11,4 @@ Follow below steps to run project
 2. Run `npm i` command to install dependencies
 3. Execute `npm run serve` command to run the project
 
-Reference Website: **http://www.cluemediator.com**
+Reference Website: **https://www.cluemediator.com**
