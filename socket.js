@@ -3,7 +3,7 @@ const socket = io => {
     console.log('New Connection');
 
     // socket event for client subscription
-    client.on('subscribeToEvent', interval => {
+    client.on('subscribeToDateEvent', interval => {
       console.log('Client is subscribing with interval: ', interval);
 
       // emit message to the client side
